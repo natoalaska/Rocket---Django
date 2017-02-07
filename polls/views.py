@@ -1,6 +1,7 @@
 from django.shortcuts import get_object_or_404, render
 from django.http import HttpResponseRedirect, HttpResponse
 from django.urls import reverse
+# import django.urls im as reverse
 from django.views import generic
 from django.utils import timezone
 
